@@ -1,0 +1,124 @@
+.support{
+    display: flex;
+    text-align: justify;
+    flex-direction: row;
+    background-color: #ffd700;
+    height:40px;
+    color:black;
+    padding-right: 10%;
+    padding:1px;
+    margin:1px;
+}
+.supp{
+    color: azure;
+    display: flex;
+    left:70px;
+    padding-top:1px;
+    padding-left: 40%;
+    padding-right: 7px;
+    background-color: black;
+    text-align: left;
+     
+}
+    
+
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.all{
+    text-align: left;
+    margin:-150px;
+    padding:1px;
+    bottom:1px;
+}
+.button-my{
+    font-size: 1rem;
+    border: none;
+    outline: none;
+    padding: 5px 7px;
+    border-radius:10px;
+    background-color: chocolate;
+    color: azure;
+}
+/* .button-my{
+    padding: -0,5%;
+    display: flex;
+    color: black;
+    background-color: chocolate;
+} */
+/* .paus{
+    margin:-13px;
+    padding:5px;
+}  */
+.hero{
+    display: flex;
+    align-items: center;
+    background-color: gold;
+}
+nav{
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 3px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.logo{
+    color:black;
+    font-size:30px;
+
+}
+span{
+    color:sienna;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding:10px 20px;
+    
+}
+nav ul li{
+    color:darkgoldenrod;
+    text-decoration:none;
+    font-weight: bold;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+.button{
+    color: azure;
+    background-color: black;
+    border: none;
+}
+.jozem{
+    background-color: gold;
+}
+.img-icon{
+    display: flex;
+    justify-content:right;
+    height:400px;
+    width:400px;
+    margin-left:500px;
+    padding:-250px;
+    /* width: 120px;
+    background-color: brown;
+    border-radius: 10px;
+    color: white;
+    border: 1px solid brown; */
+}
+.icons{
+    height:30px;
+    width: 50px;
+}
+.images{
+    height: 100px;
+    width:100px;
+}
+.colection{
+    display: flex;
+    align-items: center;
+}
